@@ -3,9 +3,10 @@
 
  ## Conteúdo
 
- - 02 - Arquitetura de Soluções em Nuvem (2024) não pode ser adicionado ao menu de cursos, a menos que o curso esteja ativo.	02 - Arquitetura de Soluções em Nuvem (2024)
+- 01 - Arquitetura de Front End (2024)
+- 02 - Arquitetura de Soluções em Nuvem.
 - 03 - Arquitetura de Back End (2024)
-- Plataformas Back End - Node.Js (2024)
+- 04 Plataformas Back End - Node.Js (2024)
 - 05 - APIs e Web Services (2024)
 - 06 - Arquitetura de Software na Plataforma. Net (2024)
 - 07 - Arquitetura de Software com Framework Java (2
