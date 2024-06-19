@@ -1,0 +1,22 @@
+{
+  "name": "projeto1",
+  "version": "1.0.0",
+  "description": "Primeiro projeto em node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "projeto-node",
+    "javascript"
+  ],
+  "author": "Karen Vicente",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^3.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
