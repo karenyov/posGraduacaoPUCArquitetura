@@ -10,7 +10,7 @@ Sobre esse tipo de modelagem, é incorreto dizer que:
 
 # Pergunta 2
 Considere o seguinte diagrama da UML. Sobre ele, é incorreto dizer que:
-<img src="https://github.com/karenyov/posGraduacaoPUCArquitetura/blob/main/Imagem1.png" width="300">
+<img src="https://github.com/karenyov/posGraduacaoPUCArquitetura/blob/main/disciplinas/Imagem1.png" width="300">
 
 - Ela mostra o uso do elemento chamado comunicação UML para representar protocolos de rede
 - Ele mostra componentes de software manifestados como artefatos nos nós físicos da arquitetura
@@ -19,7 +19,7 @@ Considere o seguinte diagrama da UML. Sobre ele, é incorreto dizer que:
 
 # Pergunta 3
 Considere.o seguinte diagrama. Sobre ele, podemos dizer que:
-<img src="https://github.com/karenyov/posGraduacaoPUCArquitetura/blob/main/Imagem1-3.png" width="300">
+<img src="https://github.com/karenyov/posGraduacaoPUCArquitetura/blob/main/disciplinas/Imagem1-3.png" width="300">
 
 - Ele fornece um diagrama de forma livre para modelar os componentes da tecnologia Kubernetes :heavy_check_mark:
 - Ele mostra componentes do Kubernetes modelados em notação UML
